@@ -1,0 +1,32 @@
+
+{  "1": {
+        
+        "first_name": "Ali",
+        "last_name": "Ahmed",
+        "age": 45,
+        "gender": "Male",
+        "contact_number": "+92-300-1234567",
+        "diagnosis": "Hypertension"
+      
+    },
+    "2":{
+        "id": 2,
+        "first_name": "Fatima",
+        "last_name": "Bibi",
+        "age": 29,
+        "gender": "Female",
+        "contact_number": "+92-300-7654321",
+        "diagnosis": "Asthma"
+       
+    },
+    "3":{
+        "id": 3,
+        "first_name": "Imran",
+        "last_name": "Khan",
+        "age": 52,
+        "gender": "Male",
+        "contact_number": "+92-300-9988776",
+        "diagnosis": "Type 2 Diabetes"
+    } 
+    }
+
