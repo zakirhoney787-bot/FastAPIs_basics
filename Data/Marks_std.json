@@ -1,0 +1,37 @@
+[
+  {
+    "student": "Ali",
+        "marks": {
+        "math": 85,
+        "english": 0,
+        "science": 88
+        }
+  },
+  {
+    "student": "Sana",
+        "marks": {
+        "math": 42,
+        "english": 55,
+        "science": 48
+    }
+  
+  },
+  {
+    "student": "Zain",
+    "marks": {
+        "math": 0,
+        "english": 88,
+        "science": 92
+    }
+
+  },
+  {
+    "student": "Ayesha",
+    "marks": {
+        "math": 78,
+        "english": 82,
+        "science": 80
+    }
+
+  }
+]
